@@ -338,23 +338,9 @@ section .title::after{
     top: 0;
     background: blueviolet;
 }
-.skills-content .right .python::before{
-    width: 85%;
-}
-.skills-content .right .html::before{
-    width: 85%;
-}
-.skills-content .right .css::before{
-    width: 85%;
-}
+
 .skills-content .right .js::before{
-    width: 50%;
-}
-.skills-content .right .mysql::before{
-    width: 95%;
-}
-.skills-content .right .excel::before{
-    width: 80%;
+    width: 100%;
 }
 
 

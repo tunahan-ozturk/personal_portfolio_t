@@ -38,13 +38,13 @@ $(document).ready(function(){
 
     // Yazı Değiştirme Animasyon Scripti
     var typed = new Typed(".typing", {
-        strings:["Business Analyst","Business Intelligence Specialist","Blockchain Developer","$%*12!?"],
+        strings:["Front-End Developer","Back-End Developer","Blockchain Developer","$%*12!?"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     })
     var typed = new Typed(".typing-2", {
-        strings:["Business Analyst","Blockchain Developer","Blockchain Developer","$%*12!?"],
+        strings:["Front-End Developer","Back-End Developer","Blockchain Developer","$%*12!?"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
